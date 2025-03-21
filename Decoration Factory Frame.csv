@@ -1,0 +1,43 @@
+#dig start(24;21; Start: Center) 
+d,d,d,d,d, , , , , , , ,d,d,d,d,d, ,d,d,d,d,d,d,d,d,d,d,d, ,d,d,d,d,d, ,d,d,d,d,d, , , , , , , #
+d,d,d,d,d, , ,d,d,d, , ,d,d,d,d,d, ,d,d,d,d,d,d,d,d,d,d,d, ,d,d,d,d,d, ,d,d,d,d,d, , , , , , , #
+d,d,d,d,d,d,d,d,d,d, , ,d,d,d,d,d, ,d,d,d,d,d,d,d,d,d,d,d, ,d,d,d,d,d,d,d,d,d,d,d, , , , , , , #
+d,d,d,d,d, , ,d,d,d, , ,d,d,d,d,d, ,d,d,d,d,d,d,d,d,d,d,d, ,d,d,d,d,d, ,d,d,d,d,d, , , , , , , #
+d,d,d,d,d, , , ,d, , , ,d,d,d,d,d, ,d,d,d,d,d,d,d,d,d,d,d, ,d,d,d,d,d, ,d,d,d,d,d, , , , , , , #
+ , , , , , , , ,d, , , , , ,d, , , , , ,d, , , , , , , , , , , ,d, , , , , ,d, , , , , , , , , #
+d,d,d,d,d, , , ,d, , , , , ,d, , , , , ,d, , , , , , , , , , , ,d, , , , , ,d, , , , , , , , , #
+d,d,d,d,d, , ,d,d,d, , , ,d,d,d, , , ,d,d,d, , , ,d,d,d, , , ,d,d,d, , , ,d,d,d, , , , , , , , #
+d,d,d,d,d,d,d,d,d,d, , , ,d,d,d, , , ,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d, , , ,d,d,d, , , , , , , , #
+d,d,d,d,d, , ,d,d,d, , , ,d,d,d, , , ,d,d,d, , , ,d,d,d, , , ,d,d,d, , , ,d,d,d, , , , , , , , #
+d,d,d,d,d, , , , , ,d, , , , , ,d, , , ,d, , , , , , , , , , , ,d, , , , , ,d, , , , , , , , , #
+ , ,d, , , , , , , , ,d,d,d,d,d,d,d, , ,d, , , , , , , , , , , ,d, , , , , ,d, , , , , , , , , #
+d,d,d,d,d, , , , , , , , , , , , , ,d, ,d, , , , , , , , , , , ,d, , , , , ,d, , , , , , , , , #
+d,d,d,d,d, , ,d,d,d, , , ,d,d,d, , , ,d,d, , , , ,d,d,d, , , , ,d, , , , ,d,d,d, , , , , , , , #
+d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d, , , , ,d, , , , ,d,d,d, , , , ,d, , , , ,d,d,d, , , , , , , , #
+d,d,d,d,d, , ,d,d,d, , , ,d,d,d, , , , ,d, , , , ,d,d,d, , , ,d, , , , , ,d,d,d, , , , , , , , #
+d,d,d,d,d, , , , , , , , , , , ,d, , , ,d, , , , , ,d, , , ,d, , , , , , , ,d, , , , , , , , , #
+ , ,d, , , , , , , , , , , , , , ,d, , ,d, , , , , ,d, , ,d, , , , , , , , ,d, , , , , , , , , #
+d,d,d,d,d, , , , , , , , , , , , , ,d,d,d,d,d, ,d,d,d,d,d, , , , , , , , , ,d, , , ,d,d,d,d,d, #
+d,d,d,d,d, , ,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d, , ,d,d,d, , , ,d,d,d, , ,d,d,d,d,d, #
+d,d,d,d,d,d,d,d,d,d, , , , , , , , ,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d, #
+d,d,d,d,d, , ,d,d,d, , , ,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d, , ,d,d,d, , , ,d,d,d, , ,d,d,d,d,d, #
+d,d,d,d,d, , , , , , , ,d, , , , , ,d,d,d,d,d, ,d,d,d,d,d, , , ,d, , , , , , , , , ,d,d,d,d,d, #
+ , , , , , , , , , , ,d, , , , , ,d, , ,d, , , , , ,d, , ,d, , ,d, , , , , , , , , , , , , , , #
+d,d,d,d,d, , , , , ,d, , , , , ,d, , , ,d, , , , , ,d, , , ,d, ,d, , , ,d,d,d,d,d, ,d,d,d,d,d, #
+d,d,d,d,d, , ,d,d,d, , , ,d,d,d, , , ,d,d,d, , , ,d,d,d, , , ,d,d,d, , ,d,d,d,d,d, ,d,d,d,d,d, #
+d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d, , , ,d,d,d, , , ,d,d,d, , , ,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d, #
+d,d,d,d,d, , ,d,d,d, , , ,d,d,d, , , ,d,d,d, , , ,d,d,d, , , ,d,d,d, , ,d,d,d,d,d, ,d,d,d,d,d, #
+d,d,d,d,d, , , , , , , , , , , , , , , ,d, , , , , ,d, , , , , ,d, , , ,d,d,d,d,d, ,d,d,d,d,d, #
+ , , , , , , , , , , , , , , , , , , , ,d, , , , , ,d, , , , , ,d, , , , , , , , , , , , , , , #
+d,d,d,d,d, , , , , , , , , , , , , , , ,d, , , , , ,d, , , , , ,d, , , , , , , , , , , , , , , #
+d,d,d,d,d, , ,d,d,d, , , ,d,d,d, , , ,d,d,d, , , ,d,d,d, , , ,d,d,d, , , , , , , , , , , , , , #
+d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d, , , ,d,d,d, , , ,d,d,d, , , , , , , , , , , , , , #
+d,d,d,d,d, , ,d,d,d, , , ,d,d,d, , , ,d,d,d, , , ,d,d,d, , , ,d,d,d, , , , , , , , , , , , , , #
+d,d,d,d,d, , , , , , , , , ,d, , , , , ,d, , , , , ,d, , , , , ,d, , , , , , , , , , , , , , , #
+ , , , , , , , , , , , , , ,d, , , , , ,d, , , , , ,d, , , , , ,d, , , , , , , , , , , , , , , #
+ , , , , , , , , , , , ,d,d,d,d,d, ,d,d,d,d,d, ,d,d,d,d,d, ,d,d,d,d,d, , , , , , , , , , , , , #
+ , , , , , , , , , , , ,d,d,d,d,d, ,d,d,d,d,d, ,d,d,d,d,d, ,d,d,d,d,d, , , , , , , , , , , , , #
+ , , , , , , , , , , , ,d,d,d,d,d, ,d,d,d,d,d, ,d,d,d,d,d,d,d,d,d,d,d, , , , , , , , , , , , , #
+ , , , , , , , , , , , ,d,d,d,d,d, ,d,d,d,d,d, ,d,d,d,d,d, ,d,d,d,d,d, , , , , , , , , , , , , #
+ , , , , , , , , , , , ,d,d,d,d,d, ,d,d,d,d,d, ,d,d,d,d,d, ,d,d,d,d,d, , , , , , , , , , , , , #
+#

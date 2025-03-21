@@ -1,0 +1,89 @@
+#dig start(44;44; Start: Center) 
+d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d, ,d,d,d,d,d,d,d,d,d,d,d,d,d, ,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d, ,d,d,d,d,d,d,d,d,d,d,d,d,d, ,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d, #
+d, ,d, ,d, ,d, ,d, ,d, ,d, ,d, ,d, ,d, ,d, , ,d,d, , , ,d,d, , ,d, ,d, , , , , ,d, ,d, ,d, ,d, , , , , ,d, ,d, , ,d,d, , , ,d,d, , ,d, ,d, ,d, ,d, ,d, ,d, ,d, ,d, ,d, ,d, ,d, #
+d, ,d, ,d, ,d, ,d, ,d, ,d, ,d, ,d, ,d, ,d, ,d,d,d,d, ,d,d,d,d, ,d, ,d,d,d,d,d, ,d, ,d, ,d, ,d, ,d,d,d,d,d, ,d, ,d,d,d,d, ,d,d,d,d, ,d, ,d, ,d, ,d, ,d, ,d, ,d, ,d, ,d, ,d, ,d, #
+d, ,d, ,d, ,d, ,d, ,d, ,d, ,d, ,d, ,d, ,d, ,d,d,d,d, ,d,d,d,d, ,d, ,d, , , , , ,d, ,d, ,d, ,d, , , , , ,d, ,d, ,d,d,d,d, ,d,d,d,d, ,d, ,d, ,d, ,d, ,d, ,d, ,d, ,d, ,d, ,d, ,d, #
+d, ,d, ,d, ,d, ,d, ,d, ,d, ,d, ,d, ,d, ,d, ,d,d,d,d, ,d,d,d,d, ,d, ,d,d,d,d,d, ,d, ,d, ,d, ,d, ,d,d,d,d,d, ,d, ,d,d,d,d, ,d,d,d,d, ,d, ,d, ,d, ,d, ,d, ,d, ,d, ,d, ,d, ,d, ,d, #
+d, , , , , , , , , , , , , , , , , ,d, ,d, ,d,d,d,d, ,d,d,d,d, ,d, ,d, , , , , , , , , , , , , , , , , ,d, ,d, ,d,d,d,d, ,d,d,d,d, ,d, ,d, , , , , , , , , , , , , , , , , ,d, #
+d,d,d,d,d, ,d,d, ,d,d, ,d,d, ,d,d, ,d, ,d, , , , , , , , , , , ,d, ,d,d,d,d,d, ,d,d, , , ,d,d, ,d,d,d,d,d, ,d, , , , , , , , , , , ,d, ,d, ,d,d, ,d,d, ,d,d, ,d,d, ,d,d,d,d,d, #
+d, , , , , ,d,d, ,d,d, ,d,d, ,d,d, ,d, ,d, , ,d,d,d,d,d,d,d, , ,d, ,d, , , , , ,d,d,d,d,d,d,d, , , , , ,d, ,d, , ,d,d,d,d,d,d,d, , ,d, ,d, ,d,d, ,d,d, ,d,d, ,d,d, , , , , ,d, #
+d,d,d,d,d, , ,d, , ,d, , ,d, , ,d, ,d, ,d, ,d,d,d,d,d,d,d,d,d, ,d, ,d,d,d,d,d, , , , ,d, , , , ,d,d,d,d,d, ,d, ,d,d,d,d,d,d,d,d,d, ,d, ,d, ,d, , ,d, , ,d, , ,d, , ,d,d,d,d,d, #
+d, , , , , , ,d,d,d,d,d,d,d,d,d,d,d,d, ,d,d,d,d,d,d,d,d,d,d,d,d,d, ,d, , , , , ,d,d, ,d, ,d,d, , , , , ,d, ,d,d,d,d,d,d,d,d,d,d,d,d,d, ,d,d,d,d,d,d,d,d,d,d,d,d, , , , , , ,d, #
+d,d,d,d,d, , ,d, , ,d, , ,d, , ,d, ,d, ,d,d,d,d,d,d,d,d,d,d,d,d,d, ,d,d,d,d,d, ,d,d,d,d,d,d,d, ,d,d,d,d,d, ,d,d,d,d,d,d,d,d,d,d,d,d,d, ,d, ,d, , ,d, , ,d, , ,d, , ,d,d,d,d,d, #
+d, , , , , ,d,d, ,d,d, ,d,d, ,d,d, ,d, ,d,d,d,d,d,d,d,d,d,d,d,d,d, ,d, , , , , , , , ,d, , , , , , , , ,d, ,d,d,d,d,d,d,d,d,d,d,d,d,d, ,d, ,d,d, ,d,d, ,d,d, ,d,d, , , , , ,d, #
+d,d,d,d,d, ,d,d, ,d,d, ,d,d, ,d,d, ,d, ,d, ,d,d,d,d,d,d,d,d,d, ,d, ,d,d,d,d,d, ,d,d, ,d, ,d,d, ,d,d,d,d,d, ,d, ,d,d,d,d,d,d,d,d,d, ,d, ,d, ,d,d, ,d,d, ,d,d, ,d,d, ,d,d,d,d,d, #
+d, , , , , , , , , , , , , , , , , ,d, ,d, , ,d,d,d,d,d,d,d, , ,d, ,d, , , , , ,d,d,d,d,d,d,d, , , , , ,d, ,d, , ,d,d,d,d,d,d,d, , ,d, ,d, , , , , , , , , , , , , , , , , ,d, #
+d, ,d, ,d, ,d, ,d, ,d, ,d, ,d, ,d, ,d, ,d, , , , , , , , , , , ,d, ,d,d,d,d,d, , , , ,d, , , , ,d,d,d,d,d, ,d, , , , , , , , , , , ,d, ,d, ,d, ,d, ,d, ,d, ,d, ,d, ,d, ,d, ,d, #
+d, ,d, ,d, ,d, ,d, ,d, ,d, ,d, ,d, ,d, ,d, ,d,d,d,d, ,d,d,d,d, ,d, ,d, , , , , ,d,d, ,d, ,d,d, , , , , ,d, ,d, ,d,d,d,d, ,d,d,d,d, ,d, ,d, ,d, ,d, ,d, ,d, ,d, ,d, ,d, ,d, ,d, #
+d, ,d, ,d, ,d, ,d, ,d, ,d, ,d, ,d, ,d, ,d, ,d,d,d,d, ,d,d,d,d, ,d, ,d,d,d,d,d, ,d,d,d,d,d,d,d, ,d,d,d,d,d, ,d, ,d,d,d,d, ,d,d,d,d, ,d, ,d, ,d, ,d, ,d, ,d, ,d, ,d, ,d, ,d, ,d, #
+d, ,d, ,d, ,d, ,d, ,d, ,d, ,d, ,d, ,d, ,d, ,d,d,d,d, ,d,d,d,d, ,d, ,d, , , , , , , , ,d, , , , , , , , ,d, ,d, ,d,d,d,d, ,d,d,d,d, ,d, ,d, ,d, ,d, ,d, ,d, ,d, ,d, ,d, ,d, ,d, #
+d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d, ,d, ,d,d,d,d, ,d,d,d,d, ,d, ,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d, ,d, ,d,d,d,d, ,d,d,d,d, ,d, ,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d, #
+ , , , , , , , , , , , , , , , , , , ,d,d, , ,d,d, , , ,d,d, , ,d, , , , , , , , , , ,d, , , , , , , , , , ,d, , ,d,d, , , ,d,d, , ,d,d, , , , , , , , , , , , , , , , , , , , #
+d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d, ,d, , , ,d,d,d, ,d,d,d, ,d,d,d, , , ,d, ,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d, #
+d, , , , , , , , ,d,d,d, , , , , , , , ,d,d, , , , ,d, , , , ,d,d, ,d, ,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d, ,d, ,d,d, , , , ,d, , , , ,d,d, , , , , , , , ,d,d,d, , , , , , , , ,d, #
+d, ,d,d,d,d, , ,d,d,d,d,d, , ,d,d,d,d, ,d, , ,d,d,d,d,d,d,d, , ,d,d,d, ,d, ,d,d,d, ,d,d,d, ,d,d,d, ,d, ,d,d,d, , ,d,d,d,d,d,d,d, , ,d, ,d,d,d,d, , ,d,d,d,d,d, , ,d,d,d,d, ,d, #
+d,d,d,d,d,d, ,d,d,d,d,d,d,d, ,d,d,d,d,d,d, ,d,d,d,d,d,d,d,d,d, ,d, ,d, ,d, ,d,d,d, ,d,d,d, ,d,d,d, ,d, ,d, ,d, ,d,d,d,d,d,d,d,d,d, ,d,d,d,d,d,d, ,d,d,d,d,d,d,d, ,d,d,d,d,d,d, #
+d,d,d,d,d,d, ,d,d,d,d,d,d,d, ,d,d,d,d,d,d, ,d,d,d,d,d,d,d,d,d, ,d, ,d, ,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d, ,d, ,d, ,d,d,d,d,d,d,d,d,d, ,d,d,d,d,d,d, ,d,d,d,d,d,d,d, ,d,d,d,d,d,d, #
+d, ,d,d,d,d, ,d,d,d,d,d,d,d, ,d,d,d,d, ,d, ,d,d,d,d,d,d,d,d,d, ,d, ,d, ,d, ,d,d,d, ,d,d,d, ,d,d,d, ,d, ,d, ,d, ,d,d,d,d,d,d,d,d,d, ,d, ,d,d,d,d, ,d,d,d,d,d,d,d, ,d,d,d,d, ,d, #
+d, , , , , , ,d,d,d,d,d,d,d, , , , , , ,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d, ,d, ,d,d,d, ,d,d,d, ,d,d,d, ,d, ,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d, , , , , , ,d,d,d,d,d,d,d, , , , , , ,d, #
+d, ,d,d,d,d, ,d,d,d,d,d,d,d, ,d,d,d,d, ,d, ,d,d,d,d,d,d,d,d,d, ,d, ,d, ,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d, ,d, ,d, ,d,d,d,d,d,d,d,d,d, ,d, ,d,d,d,d, ,d,d,d,d,d,d,d, ,d,d,d,d, ,d, #
+d,d,d,d,d,d, ,d,d,d,d,d,d,d, ,d,d,d,d,d,d, ,d,d,d,d,d,d,d,d,d, ,d, ,d, ,d, ,d,d,d, ,d,d,d, ,d,d,d, ,d, ,d, ,d, ,d,d,d,d,d,d,d,d,d, ,d,d,d,d,d,d, ,d,d,d,d,d,d,d, ,d,d,d,d,d,d, #
+d,d,d,d,d,d, ,d,d,d,d,d,d,d, ,d,d,d,d,d,d, ,d,d,d,d,d,d,d,d,d, ,d, ,d, ,d, ,d,d,d, ,d,d,d, ,d,d,d, ,d, ,d, ,d, ,d,d,d,d,d,d,d,d,d, ,d,d,d,d,d,d, ,d,d,d,d,d,d,d, ,d,d,d,d,d,d, #
+d, ,d,d,d,d, , ,d,d,d,d,d, , ,d,d,d,d, ,d, , ,d,d,d,d,d,d,d, , ,d,d,d, ,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d, ,d,d,d, , ,d,d,d,d,d,d,d, , ,d, ,d,d,d,d, , ,d,d,d,d,d, , ,d,d,d,d, ,d, #
+d, , , , , , , , ,d,d,d, , , , , , , , ,d,d, , , , ,d, , , , ,d,d, , , ,d, ,d,d,d, ,d,d,d, ,d,d,d, ,d, , , ,d,d, , , , ,d, , , , ,d,d, , , , , , , , ,d,d,d, , , , , , , , ,d, #
+d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d, ,d, ,d,d,d, ,d,d,d, ,d,d,d, ,d, ,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d, #
+ , , , , , , , , , , , , , , , , , , , , , ,d, , , ,d, , , ,d, ,d,d,d, , , , , , , ,d,d,d, , , , , , , ,d,d,d, ,d, , , ,d, , , ,d, , , , , , , , , , , , , , , , , , , , , , , #
+d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d, ,d,d,d,d,d,d,d,d,d,d,d, ,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d, ,d,d,d,d,d,d,d,d,d,d,d, ,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d, #
+d, ,d, ,d, ,d, ,d, ,d, ,d, ,d, ,d, ,d, , , , , , , , , , , , , , , ,d,d,d,d,d,d,d, , ,d, , ,d,d,d,d,d,d,d, , , , , , , , , , , , , , , ,d, ,d, ,d, ,d, ,d, ,d, ,d, ,d, ,d, ,d, #
+d, ,d, ,d, ,d, ,d, ,d, ,d, ,d, ,d, ,d, , ,d,d,d,d,d,d,d,d,d,d,d,d, ,d,d,d,d,d, , , ,d,d,d, , , ,d,d,d,d,d, ,d,d,d,d,d,d,d,d,d,d,d,d, , ,d, ,d, ,d, ,d, ,d, ,d, ,d, ,d, ,d, ,d, #
+d, ,d, ,d, ,d, ,d, ,d, ,d, ,d, ,d, ,d, , ,d, , ,d, , ,d, , ,d, , , ,d,d,d,d, , ,d, ,d,d,d, ,d, , ,d,d,d,d, , , ,d, , ,d, , ,d, , ,d, , ,d, ,d, ,d, ,d, ,d, ,d, ,d, ,d, ,d, ,d, #
+d, ,d, ,d, ,d, ,d, ,d, ,d, ,d, ,d, ,d, ,d,d,d,d,d,d,d,d,d,d,d,d,d, ,d,d,d, , ,d,d, ,d,d,d, ,d,d, , ,d,d,d, ,d,d,d,d,d,d,d,d,d,d,d,d,d, ,d, ,d, ,d, ,d, ,d, ,d, ,d, ,d, ,d, ,d, #
+d, , , , , , , , , , , , , , , , , ,d, ,d,d,d,d,d,d,d,d,d,d,d,d,d, ,d,d, , ,d,d,d, ,d,d,d, ,d,d,d, , ,d,d, ,d,d,d,d,d,d,d,d,d,d,d,d,d, ,d, , , , , , , , , , , , , , , , , ,d, #
+d,d,d,d,d, ,d,d, ,d,d, ,d,d, ,d,d, ,d, ,d,d,d,d,d,d,d,d,d,d,d,d,d, ,d,d, ,d,d,d,d, ,d,d,d, ,d,d,d,d, ,d,d, ,d,d,d,d,d,d,d,d,d,d,d,d,d, ,d, ,d,d, ,d,d, ,d,d, ,d,d, ,d,d,d,d,d, #
+d, , , , , ,d,d, ,d,d, ,d,d, ,d,d, ,d, , ,d, , ,d, , ,d, , ,d, , , ,d, , , , ,d, , , ,d, , , ,d, , , , ,d, , , ,d, , ,d, , ,d, , ,d, , ,d, ,d,d, ,d,d, ,d,d, ,d,d, , , , , ,d, #
+d,d,d,d,d, , ,d, , ,d, , ,d, , ,d, ,d, ,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d, ,d,d,d,d,d, ,d,d,d, ,d,d,d,d,d, ,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d, ,d, ,d, , ,d, , ,d, , ,d, , ,d,d,d,d,d, #
+d, , , , , , ,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d, ,d,d,d, ,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d, , , , , , ,d, #
+d,d,d,d,d, , ,d, , ,d, , ,d, , ,d, ,d, ,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d, ,d,d,d,d,d, ,d,d,d, ,d,d,d,d,d, ,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d, ,d, ,d, , ,d, , ,d, , ,d, , ,d,d,d,d,d, #
+d, , , , , ,d,d, ,d,d, ,d,d, ,d,d, ,d, , ,d, , ,d, , ,d, , ,d, , , ,d, , , , ,d, , , ,d, , , ,d, , , , ,d, , , ,d, , ,d, , ,d, , ,d, , ,d, ,d,d, ,d,d, ,d,d, ,d,d, , , , , ,d, #
+d,d,d,d,d, ,d,d, ,d,d, ,d,d, ,d,d, ,d, ,d,d,d,d,d,d,d,d,d,d,d,d,d, ,d,d, ,d,d,d,d, ,d,d,d, ,d,d,d,d, ,d,d, ,d,d,d,d,d,d,d,d,d,d,d,d,d, ,d, ,d,d, ,d,d, ,d,d, ,d,d, ,d,d,d,d,d, #
+d, , , , , , , , , , , , , , , , , ,d, ,d,d,d,d,d,d,d,d,d,d,d,d,d, ,d,d, , ,d,d,d, ,d,d,d, ,d,d,d, , ,d,d, ,d,d,d,d,d,d,d,d,d,d,d,d,d, ,d, , , , , , , , , , , , , , , , , ,d, #
+d, ,d, ,d, ,d, ,d, ,d, ,d, ,d, ,d, ,d, ,d,d,d,d,d,d,d,d,d,d,d,d,d, ,d,d,d, , ,d,d, ,d,d,d, ,d,d, , ,d,d,d, ,d,d,d,d,d,d,d,d,d,d,d,d,d, ,d, ,d, ,d, ,d, ,d, ,d, ,d, ,d, ,d, ,d, #
+d, ,d, ,d, ,d, ,d, ,d, ,d, ,d, ,d, ,d, , ,d, , ,d, , ,d, , ,d, , , ,d,d,d,d, , ,d, ,d,d,d, ,d, , ,d,d,d,d, , , ,d, , ,d, , ,d, , ,d, , ,d, ,d, ,d, ,d, ,d, ,d, ,d, ,d, ,d, ,d, #
+d, ,d, ,d, ,d, ,d, ,d, ,d, ,d, ,d, ,d, , ,d,d,d,d,d,d,d,d,d,d,d,d, ,d,d,d,d,d, , , ,d,d,d, , , ,d,d,d,d,d, ,d,d,d,d,d,d,d,d,d,d,d,d, , ,d, ,d, ,d, ,d, ,d, ,d, ,d, ,d, ,d, ,d, #
+d, ,d, ,d, ,d, ,d, ,d, ,d, ,d, ,d, ,d, , , , , , , , , , , , , , , ,d,d,d,d,d,d,d, , ,d, , ,d,d,d,d,d,d,d, , , , , , , , , , , , , , , ,d, ,d, ,d, ,d, ,d, ,d, ,d, ,d, ,d, ,d, #
+d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d, ,d,d,d,d,d,d,d,d,d,d,d, ,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d, ,d,d,d,d,d,d,d,d,d,d,d, ,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d, #
+ , , , , , , , , , , , , , , , , , , , , , ,d, , , ,d, , , ,d, ,d,d,d, , , , , , , ,d,d,d, , , , , , , ,d,d,d, ,d, , , ,d, , , ,d, , , , , , , , , , , , , , , , , , , , , , , #
+d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d, ,d, ,d,d,d, ,d,d,d, ,d,d,d, ,d, ,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d, #
+d, , , , , , , , ,d,d,d, , , , , , , , ,d,d, , , , ,d, , , , ,d,d, , , ,d, ,d,d,d, ,d,d,d, ,d,d,d, ,d, , , ,d,d, , , , ,d, , , , ,d,d, , , , , , , , ,d,d,d, , , , , , , , ,d, #
+d, ,d,d,d,d, , ,d,d,d,d,d, , ,d,d,d,d, ,d, , ,d,d,d,d,d,d,d, , ,d,d,d, ,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d, ,d,d,d, , ,d,d,d,d,d,d,d, , ,d, ,d,d,d,d, , ,d,d,d,d,d, , ,d,d,d,d, ,d, #
+d,d,d,d,d,d, ,d,d,d,d,d,d,d, ,d,d,d,d,d,d, ,d,d,d,d,d,d,d,d,d, ,d, ,d, ,d, ,d,d,d, ,d,d,d, ,d,d,d, ,d, ,d, ,d, ,d,d,d,d,d,d,d,d,d, ,d,d,d,d,d,d, ,d,d,d,d,d,d,d, ,d,d,d,d,d,d, #
+d,d,d,d,d,d, ,d,d,d,d,d,d,d, ,d,d,d,d,d,d, ,d,d,d,d,d,d,d,d,d, ,d, ,d, ,d, ,d,d,d, ,d,d,d, ,d,d,d, ,d, ,d, ,d, ,d,d,d,d,d,d,d,d,d, ,d,d,d,d,d,d, ,d,d,d,d,d,d,d, ,d,d,d,d,d,d, #
+d, ,d,d,d,d, ,d,d,d,d,d,d,d, ,d,d,d,d, ,d, ,d,d,d,d,d,d,d,d,d, ,d, ,d, ,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d, ,d, ,d, ,d,d,d,d,d,d,d,d,d, ,d, ,d,d,d,d, ,d,d,d,d,d,d,d, ,d,d,d,d, ,d, #
+d, , , , , , ,d,d,d,d,d,d,d, , , , , , ,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d, ,d, ,d,d,d, ,d,d,d, ,d,d,d, ,d, ,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d, , , , , , ,d,d,d,d,d,d,d, , , , , , ,d, #
+d, ,d,d,d,d, ,d,d,d,d,d,d,d, ,d,d,d,d, ,d, ,d,d,d,d,d,d,d,d,d, ,d, ,d, ,d, ,d,d,d, ,d,d,d, ,d,d,d, ,d, ,d, ,d, ,d,d,d,d,d,d,d,d,d, ,d, ,d,d,d,d, ,d,d,d,d,d,d,d, ,d,d,d,d, ,d, #
+d,d,d,d,d,d, ,d,d,d,d,d,d,d, ,d,d,d,d,d,d, ,d,d,d,d,d,d,d,d,d, ,d, ,d, ,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d, ,d, ,d, ,d,d,d,d,d,d,d,d,d, ,d,d,d,d,d,d, ,d,d,d,d,d,d,d, ,d,d,d,d,d,d, #
+d,d,d,d,d,d, ,d,d,d,d,d,d,d, ,d,d,d,d,d,d, ,d,d,d,d,d,d,d,d,d, ,d, ,d, ,d, ,d,d,d, ,d,d,d, ,d,d,d, ,d, ,d, ,d, ,d,d,d,d,d,d,d,d,d, ,d,d,d,d,d,d, ,d,d,d,d,d,d,d, ,d,d,d,d,d,d, #
+d, ,d,d,d,d, , ,d,d,d,d,d, , ,d,d,d,d, ,d, , ,d,d,d,d,d,d,d, , ,d,d,d, ,d, ,d,d,d, ,d,d,d, ,d,d,d, ,d, ,d,d,d, , ,d,d,d,d,d,d,d, , ,d, ,d,d,d,d, , ,d,d,d,d,d, , ,d,d,d,d, ,d, #
+d, , , , , , , , ,d,d,d, , , , , , , , ,d,d, , , , ,d, , , , ,d,d, ,d, ,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d, ,d, ,d,d, , , , ,d, , , , ,d,d, , , , , , , , ,d,d,d, , , , , , , , ,d, #
+d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d, ,d, , , ,d,d,d, ,d,d,d, ,d,d,d, , , ,d, ,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d, #
+ , , , , , , , , , , , , , , , , , , ,d,d, , ,d,d, , , ,d,d, , ,d, , , , , , , , , , ,d, , , , , , , , , , ,d, , ,d,d, , , ,d,d, , ,d,d, , , , , , , , , , , , , , , , , , , , #
+d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d, ,d, ,d,d,d,d, ,d,d,d,d, ,d, ,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d, ,d, ,d,d,d,d, ,d,d,d,d, ,d, ,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d, #
+d, ,d, ,d, ,d, ,d, ,d, ,d, ,d, ,d, ,d, ,d, ,d,d,d,d, ,d,d,d,d, ,d, ,d, , , , , , , , ,d, , , , , , , , ,d, ,d, ,d,d,d,d, ,d,d,d,d, ,d, ,d, ,d, ,d, ,d, ,d, ,d, ,d, ,d, ,d, ,d, #
+d, ,d, ,d, ,d, ,d, ,d, ,d, ,d, ,d, ,d, ,d, ,d,d,d,d, ,d,d,d,d, ,d, ,d,d,d,d,d, ,d,d,d,d,d,d,d, ,d,d,d,d,d, ,d, ,d,d,d,d, ,d,d,d,d, ,d, ,d, ,d, ,d, ,d, ,d, ,d, ,d, ,d, ,d, ,d, #
+d, ,d, ,d, ,d, ,d, ,d, ,d, ,d, ,d, ,d, ,d, ,d,d,d,d, ,d,d,d,d, ,d, ,d, , , , , ,d,d, ,d, ,d,d, , , , , ,d, ,d, ,d,d,d,d, ,d,d,d,d, ,d, ,d, ,d, ,d, ,d, ,d, ,d, ,d, ,d, ,d, ,d, #
+d, ,d, ,d, ,d, ,d, ,d, ,d, ,d, ,d, ,d, ,d, , , , , , , , , , , ,d, ,d,d,d,d,d, , , , ,d, , , , ,d,d,d,d,d, ,d, , , , , , , , , , , ,d, ,d, ,d, ,d, ,d, ,d, ,d, ,d, ,d, ,d, ,d, #
+d, , , , , , , , , , , , , , , , , ,d, ,d, , ,d,d,d,d,d,d,d, , ,d, ,d, , , , , ,d,d,d,d,d,d,d, , , , , ,d, ,d, , ,d,d,d,d,d,d,d, , ,d, ,d, , , , , , , , , , , , , , , , , ,d, #
+d,d,d,d,d, ,d,d, ,d,d, ,d,d, ,d,d, ,d, ,d, ,d,d,d,d,d,d,d,d,d, ,d, ,d,d,d,d,d, ,d,d, ,d, ,d,d, ,d,d,d,d,d, ,d, ,d,d,d,d,d,d,d,d,d, ,d, ,d, ,d,d, ,d,d, ,d,d, ,d,d, ,d,d,d,d,d, #
+d, , , , , ,d,d, ,d,d, ,d,d, ,d,d, ,d, ,d,d,d,d,d,d,d,d,d,d,d,d,d, ,d, , , , , , , , ,d, , , , , , , , ,d, ,d,d,d,d,d,d,d,d,d,d,d,d,d, ,d, ,d,d, ,d,d, ,d,d, ,d,d, , , , , ,d, #
+d,d,d,d,d, , ,d, , ,d, , ,d, , ,d, ,d, ,d,d,d,d,d,d,d,d,d,d,d,d,d, ,d,d,d,d,d, ,d,d,d,d,d,d,d, ,d,d,d,d,d, ,d,d,d,d,d,d,d,d,d,d,d,d,d, ,d, ,d, , ,d, , ,d, , ,d, , ,d,d,d,d,d, #
+d, , , , , , ,d,d,d,d,d,d,d,d,d,d,d,d, ,d,d,d,d,d,d,d,d,d,d,d,d,d, ,d, , , , , ,d,d, ,d, ,d,d, , , , , ,d, ,d,d,d,d,d,d,d,d,d,d,d,d,d, ,d,d,d,d,d,d,d,d,d,d,d,d, , , , , , ,d, #
+d,d,d,d,d, , ,d, , ,d, , ,d, , ,d, ,d, ,d, ,d,d,d,d,d,d,d,d,d, ,d, ,d,d,d,d,d, , , , ,d, , , , ,d,d,d,d,d, ,d, ,d,d,d,d,d,d,d,d,d, ,d, ,d, ,d, , ,d, , ,d, , ,d, , ,d,d,d,d,d, #
+d, , , , , ,d,d, ,d,d, ,d,d, ,d,d, ,d, ,d, , ,d,d,d,d,d,d,d, , ,d, ,d, , , , , ,d,d,d,d,d,d,d, , , , , ,d, ,d, , ,d,d,d,d,d,d,d, , ,d, ,d, ,d,d, ,d,d, ,d,d, ,d,d, , , , , ,d, #
+d,d,d,d,d, ,d,d, ,d,d, ,d,d, ,d,d, ,d, ,d, , , , , , , , , , , ,d, ,d,d,d,d,d, ,d,d, , , ,d,d, ,d,d,d,d,d, ,d, , , , , , , , , , , ,d, ,d, ,d,d, ,d,d, ,d,d, ,d,d, ,d,d,d,d,d, #
+d, , , , , , , , , , , , , , , , , ,d, ,d, ,d,d,d,d, ,d,d,d,d, ,d, ,d, , , , , , , , , , , , , , , , , ,d, ,d, ,d,d,d,d, ,d,d,d,d, ,d, ,d, , , , , , , , , , , , , , , , , ,d, #
+d, ,d, ,d, ,d, ,d, ,d, ,d, ,d, ,d, ,d, ,d, ,d,d,d,d, ,d,d,d,d, ,d, ,d,d,d,d,d, ,d, ,d, ,d, ,d, ,d,d,d,d,d, ,d, ,d,d,d,d, ,d,d,d,d, ,d, ,d, ,d, ,d, ,d, ,d, ,d, ,d, ,d, ,d, ,d, #
+d, ,d, ,d, ,d, ,d, ,d, ,d, ,d, ,d, ,d, ,d, ,d,d,d,d, ,d,d,d,d, ,d, ,d, , , , , ,d, ,d, ,d, ,d, , , , , ,d, ,d, ,d,d,d,d, ,d,d,d,d, ,d, ,d, ,d, ,d, ,d, ,d, ,d, ,d, ,d, ,d, ,d, #
+d, ,d, ,d, ,d, ,d, ,d, ,d, ,d, ,d, ,d, ,d, ,d,d,d,d, ,d,d,d,d, ,d, ,d,d,d,d,d, ,d, ,d, ,d, ,d, ,d,d,d,d,d, ,d, ,d,d,d,d, ,d,d,d,d, ,d, ,d, ,d, ,d, ,d, ,d, ,d, ,d, ,d, ,d, ,d, #
+d, ,d, ,d, ,d, ,d, ,d, ,d, ,d, ,d, ,d, ,d, , ,d,d, , , ,d,d, , ,d, ,d, , , , , ,d, ,d, ,d, ,d, , , , , ,d, ,d, , ,d,d, , , ,d,d, , ,d, ,d, ,d, ,d, ,d, ,d, ,d, ,d, ,d, ,d, ,d, #
+d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d, ,d,d,d,d,d,d,d,d,d,d,d,d,d, ,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d, ,d,d,d,d,d,d,d,d,d,d,d,d,d, ,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d, #
+#
